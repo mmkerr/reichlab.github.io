@@ -142,10 +142,12 @@
   slug: cases_lead_hospitalizations
   authors: Reich NG, Wang Y, Burns M, Ergas R, Cramer EY, Ray EL
   preprint: https://www.medrxiv.org/content/10.1101/2023.03.08.23286582v1
-  pdf: https://www.medrxiv.org/content/10.1101/2023.03.08.23286582v1.full.pdf
+  pdf: https://www.sciencedirect.com/science/article/pii/S1755436523000646/pdf?crasolve=1&r=828cc1e83f9c4d06&ts=1700442041649&rtype=https&vrr=UKN&redir=UKN&redir_fr=UKN&redir_arc=UKN&vhash=UKN&host=d3d3LnNjaWVuY2VkaXJlY3QuY29t&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&re=X2JsYW5rXw%3D%3D&ns_h=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ns_e=X2JsYW5rXw%3D%3D&rh_fd=rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&tsoh_fd=rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&iv=a78576f80ace7b1e2c46d30c081f6513&token=38356432623331623339623635353265666638653336313738396339643336626164386239613038396561656332656235343438376266306430623230613131383366636338316236316633373532613933646439363864346238333a316666343262663831303936666238626563633762383836&text=f6769cd58140196f063a3ace9e8e8c84791276a19e3cf3da48671ba4f472c9bf2b86de8174904ab2e4cd5fe83caddcbdc994aae0d71d761d1e4eca48c880b415ef6685bbcee5abdb9b49439fd3bb34ba34950c8157906a54f2dffc0f09a03fb63acb04c883b27d3e96ae3417348f1eed54124a4c86c8264106726bb5e13662f9fe1bf9e067f5cf8d1f1bdefab9ba3e8a26c51cd8146463c31be5f81819ce68f98ab41dbefb409dd48cbe7d7e43f67ddea03c9ae4206ab47a171fad633b82d6edb497bcf0996f223cb6299ff21ab66907c0a4127ed53ccc607c2a5a98582b44706168cfd28542c0e32fd781aade1af821e12bd6f110d1e4628ecea45b17e1daf9ce351edd947a167205f57f0069b0488336ac7ef3e8bdaab40c9da0ff0e45c102b8cb1206f825b8b4d68b368e7030de89&original=3f
   year: 2023
-  journal: medRxiv
-  doi: 10.1101/2023.03.08.23286582
+  journal: Epidemics
+  volume: 45
+  pages: 100728
+  doi: 10.1016/j.epidem.2023.100728
   keywords: forecasting, covid-19
   abstract: >
     Identifying data streams that can consistently improve the accuracy of epidemiological forecasting models is challenging. Using models designed 
